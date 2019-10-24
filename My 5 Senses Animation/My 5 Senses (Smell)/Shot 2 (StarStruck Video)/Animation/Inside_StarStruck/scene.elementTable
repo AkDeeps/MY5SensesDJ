@@ -3,4 +3,5 @@
  <element id="1" elementName="Head" elementFolder="Head" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="2" elementName="Senses_Shot_01A_1" elementFolder="Senses_Shot_01A_1" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
  <element id="4" elementName="Body" elementFolder="Body" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="5" elementName="Videos" elementFolder="Videos" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
